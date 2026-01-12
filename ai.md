@@ -1,3 +1,8 @@
+---
+layout: default
+title: Artificial Intelligence
+---
+
 #### LLMS:
 
 **[Sentiment Analysis with a BERT Model](https://colab.research.google.com/drive/1opm8H-tuzuoX4EzTuIeUwavaQFQCl2DO?usp=sharing)** | Python, LLMS
