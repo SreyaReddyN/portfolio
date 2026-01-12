@@ -1,6 +1,6 @@
-# Sakshi Rathi's Portfolio
+# Sreya Reddy's Portfolio
 
-Welcome! I’m Sakshi Rathi, a Data Science graduate from Indiana University Bloomington with a deep passion for solving real-world problems through data. I specialize in data analytics, visualization, AI, and product growth strategy, and I enjoy building scalable, impactful solutions that drive business outcomes.
+Welcome! I’m Sreya Reddy, a Data Science graduate from Indiana University Bloomington with a deep passion for solving real-world problems through data. I specialize in data analytics, visualization, AI, and product growth strategy, and I enjoy building scalable, impactful solutions that drive business outcomes.
 
 
 ## About Me
