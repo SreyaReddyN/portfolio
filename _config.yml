@@ -10,53 +10,8 @@ logo: /assets/img/edit5.png
 description: "MS Data Science @ CU Boulder | ML • Analytics • Visualization"
 show_downloads: false
 
-# For a USER site (SreyaReddyN.github.io), baseurl must be empty
+# User site → baseurl must be empty
 baseurl: ""
 url: "https://sreyareddyn.github.io"
 
-theme: jekyll-theme-minimal
-
-author:
-  name: "Sreya Reddy"
-  email: "your-email@example.com"
-  social:
-    linkedin: "https://www.linkedin.com/in/YOUR-LINKEDIN/"
-    github: "https://github.com/SreyaReddyN"
-
-
-# Theme settings
-theme: jekyll-theme-minimal  # You can choose a theme that suits your style
-
-# Navigation settings
-nav:
-  - title: "Home"
-    url: "{{ site.baseurl }}/"
-  - title: "Work Experience"
-    url: "{{ site.baseurl }}/work-exp.md"
-  - title: "Data Analytics"
-    url: "{{ site.baseurl }}/data-analytics.md"
-  - title: "Data Visualization"
-    url: "{{ site.baseurl }}/data-vis.md"
-  - title: "Machine Learning"
-    url: "{{ site.baseurl }}/machine-learning.md"
-  - title: "Deep Learning"
-    url: "{{ site.baseurl }}/deep-learning.md"
-  - title: "Certifications"
-    url: "{{ site.baseurl }}/certf.md"
-
-# Additional settings
-show_excerpts: true  # Show excerpts on the homepage
-paginate: 5  # Number of items per page in lists
-
-# Theme settings for dark mode
-theme_settings:
-  dark_mode: true  # Enables dark mode if supported by the theme
-
-# Custom CSS for dark mode
-sass:
-  load_paths:
-    - assets/css
-
-# Add this line to include your custom CSS
-include:
-  - assets/css/dark-mode.css
+theme: jekyll-theme-minimal # You can choose a theme that suits your style
