@@ -141,11 +141,3 @@ With 2 years of hands-on experience in data analysis, machine learning, and clou
   </a>
 </p>
 
----
-
-### Certifications
-#### [View My Certifications](certf.md)
-<p align="center">
-  <a href="https://github.com/sakshiiiir/portfolio/blob/main/certf.md">
-  </a>
-</p>
