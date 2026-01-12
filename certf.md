@@ -1,3 +1,8 @@
+---
+layout: default
+title: Certifications
+---
+
 ### Certificates
 
 1. [Deep Learning Specialization by deeplearning.ai](https://coursera.org/share/6d0e28913d35181cd1bcf9450cd35750)
