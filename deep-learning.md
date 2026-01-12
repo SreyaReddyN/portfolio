@@ -1,3 +1,8 @@
+---
+layout: default
+title: Deep Learning
+---
+
 ### Deep Learning Projects
 
 **[Deep Learning Systems: Super Resolution GAN](https://github.com/sakshiiiir/Deep-Learning--SRGAN)** | Python
