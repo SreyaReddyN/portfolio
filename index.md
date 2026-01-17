@@ -16,7 +16,7 @@ title: Home
 
 ### Welcome to My Portfolio!
 
-Hi I’m Sreya Reddy, a Data Science graduate from Indiana University Bloomington with a deep passion for solving real-world problems through data. I specialize in data analytics, visualization, ETL pipelines, predictive modeling, AI, and product growth strategy, and I enjoy building scalable, impactful solutions that drive business outcomes.
+Hi I’m Sreya Reddy, a Data Science graduate from University Of Colorado, Boulder with a deep passion for solving real-world problems through data. I specialize in data analytics, visualization, ETL pipelines, predictive modeling, AI, and product growth strategy, and I enjoy building scalable, impactful solutions that drive business outcomes.
 
 With 2 years of hands-on experience in data analysis, machine learning, and cloud platforms, I bring a cross-functional approach to data science—balancing technical depth with business understanding. I’ve contributed to projects in education, automotive, and public health sectors, helping teams unlock insights and accelerate product growth.
 
